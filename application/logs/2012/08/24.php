@@ -182,3 +182,28 @@
 --
 #0 D:\domains\net\www\index.php(109): Kohana_Request->execute()
 #1 {main}
+2012-08-24 16:43:17 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+2012-08-24 16:43:17 --- STRACE: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+--
+#0 D:\domains\net\www\index.php(109): Kohana_Request->execute()
+#1 {main}
+2012-08-24 16:43:36 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+2012-08-24 16:43:36 --- STRACE: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+--
+#0 D:\domains\net\www\index.php(109): Kohana_Request->execute()
+#1 {main}
+2012-08-24 16:47:42 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: public/ext-4/resources/css/ext-all.css ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+2012-08-24 16:47:42 --- STRACE: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: public/ext-4/resources/css/ext-all.css ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+--
+#0 D:\domains\net\www\index.php(109): Kohana_Request->execute()
+#1 {main}
+2012-08-24 16:47:42 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: public/ext-4/ext-debug.js ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+2012-08-24 16:47:42 --- STRACE: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: public/ext-4/ext-debug.js ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+--
+#0 D:\domains\net\www\index.php(109): Kohana_Request->execute()
+#1 {main}
+2012-08-24 16:47:42 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+2012-08-24 16:47:42 --- STRACE: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+--
+#0 D:\domains\net\www\index.php(109): Kohana_Request->execute()
+#1 {main}

@@ -15,6 +15,7 @@
             launch: function(){
                 Ext.create('Ext.container.Viewport', {
                     layout: 'fit',
+                    padding: 3,
                     items: [
                         Ext.create('APP.view.goods.Main')
                     ]

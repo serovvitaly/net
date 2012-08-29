@@ -18,7 +18,7 @@ return array
 			 *
 			 * Ports and sockets may be appended to the hostname.
 			 */
-			'hostname'   => 'localhost',
+			'hostname'   => 'tunnel.pagodabox.com:3306',
 			'database'   => 'net',
 			'username'   => 'talitha',  // pagodabox.com
 			'password'   => '7pEXUk2d', // pagodabox.com

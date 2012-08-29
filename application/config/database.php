@@ -20,8 +20,8 @@ return array
 			 */
 			'hostname'   => 'localhost',
 			'database'   => 'net',
-			'username'   => 'root',
-			'password'   => FALSE,
+			'username'   => 'talitha',  // pagodabox.com
+			'password'   => '7pEXUk2d', // pagodabox.com
 			'persistent' => FALSE,
 		),
 		'table_prefix' => '',

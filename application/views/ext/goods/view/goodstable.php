@@ -54,7 +54,7 @@ Ext.define('APP.goods.view.GoodsTable', {
                     text: 'Сохранить изменения',
                     handler: function(){
                         console.log(me.store.getProxy().update({
-                            params: {}
+                            action: 'update'
                         }));
                     }
                 },{

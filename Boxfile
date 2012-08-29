@@ -1,4 +1,7 @@
 web1:
+
+  document_root: www
+
   shared_writable_dirs:
     - application/cache
     - application/logs
